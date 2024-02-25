@@ -1,0 +1,6 @@
+Średni czas odpowiedzi wyniósł około 3077, a średnia przepustowość 1.9/s
+
+Modyfikacje, które wprowadziłem w celu usprawnienia działania to przypisanie wartości metody averageSpendings do zmiennej. Przełożyło się to na zmniejszenie złożoności obliczeniowej. 
+
+
+Średni czas odpowiedzi i przepustowość dla kodu po modyfikacji wyniosły odpowiednio 51s i 5.9/s
